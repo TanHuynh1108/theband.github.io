@@ -194,7 +194,7 @@ html {
     color: transparent;
     -webkit-text-stroke: 1px gold;
     background: url('/w3_band/assets/img/back.png');
-    -webkit-background-clip: text;
+    background-clip: text;
     background-position: 0 0;
     animation: back 20s linear infinite;
     /* animation: head linear 1ms infinite;
